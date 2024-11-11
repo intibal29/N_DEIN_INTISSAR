@@ -1,0 +1,1 @@
+Este ejercicio consiste en crear un componente reutilizable en JavaFX utilizando FXML y SceneBuilder. El objetivo es construir un archivo FXML que define un HBoxcon un Labely un TextField, y luego reutilizar este componente en un proyecto JavaFX.
